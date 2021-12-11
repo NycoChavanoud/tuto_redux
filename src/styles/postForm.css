@@ -1,0 +1,30 @@
+.form-container {
+  width: 60%;
+  height: auto;
+  padding: 15px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 15px;
+  margin: 40px auto;
+  border: 3px solid black;
+  flex-wrap: wrap;
+}
+input {
+  height: 20%;
+  border-radius: 15px;
+  padding-left: 10px;
+}
+
+textarea {
+  height: 70%;
+  border-radius: 15px;
+  padding: 10px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  gap: 10px;
+}
