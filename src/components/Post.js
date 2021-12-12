@@ -31,12 +31,12 @@ const Post = ({ post }) => {
         <div className="edit-delete">
           <img
             onClick={() => setEditToggle(!editToggle)}
-            src="./icons/edit.svg"
+            src="https://raw.githubusercontent.com/JustFS/redux-basics/58e36f04e389515c7e6724c83bb2afdcaaabc359/public/icons/edit.svg"
             alt="edit"
           />
           <img
             onClick={() => dispatch(deletePost(post.id))}
-            src="./icons/delete.svg"
+            src="https://raw.githubusercontent.com/JustFS/redux-basics/58e36f04e389515c7e6724c83bb2afdcaaabc359/public/icons/delete.svg"
             alt="delete"
           />
         </div>
