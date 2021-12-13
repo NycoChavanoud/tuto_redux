@@ -4,7 +4,7 @@
       "title": "Lorem ipsum dolor sit amet",
       "author": "Patrice",
       "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Recusandae quaerat vitae fugiat mollitia blanditiis, temporibus eum! Ipsum? Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Recusandae quaerat vitae fugiat mollitia blanditiis, temporibus eum! Ipsum?",
-      "likes": 27,
+      "likes": 37,
       "id": "1"
     },
     {
@@ -41,12 +41,19 @@
       "author": "user69",
       "likes": 0,
       "id": "AoW_cSS"
+    },
+    {
+      "title": "MON POST SAVE",
+      "author": "user69",
+      "content": "lezdkjnzakjdipoazjdpoiazdpokeazd",
+      "likes": 5,
+      "id": "7jSxiFB"
     }
   ],
   "users": [
     {
       "pseudo": "user69",
-      "likes": 60,
+      "likes": 80,
       "id": 1
     }
   ]

@@ -6,7 +6,7 @@ import {
   ADD_LIKE,
 } from "../actions/post.action";
 
-const initialState = {};
+const initialState = [];
 
 export default function postReducer(state = initialState, action) {
   switch (action.type) {

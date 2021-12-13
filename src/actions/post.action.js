@@ -9,7 +9,7 @@ export const ADD_LIKE = "ADD_LIKE";
 export const getPosts = () => {
   return (dispatch) => {
     return axios
-      .get(`http://localhost:3000/posts?_sort=id&_order=desc`)
+      .get(`http://localhost:3000/posts`)
       .then((res) => {
         dispatch({ type: GET_POSTS, payload: res.data });
       })
